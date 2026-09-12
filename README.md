@@ -4,7 +4,9 @@ Rage-Speedrun-Plattformer im Browser. Diese Demo enthält 5 eigene Level, die es
 
 ## Spielen
 
-**Offline:** `index.html` herunterladen und per Doppelklick im Browser öffnen (Chrome, Edge oder Firefox). F11 für Vollbild. Es wird nichts installiert.
+**Als Programm:** `Speedrun-Demo.exe` aus den Releases herunterladen und starten. Eine einzige Datei, keine Installation, startet direkt im Vollbild (braucht Edge oder Chrome). Beim ersten Start kann Windows SmartScreen nachfragen, weil die Datei nicht signiert ist: „Weitere Informationen“ → „Trotzdem ausführen“.
+
+**Offline im Browser:** `index.html` herunterladen und per Doppelklick öffnen (Chrome, Edge oder Firefox). F11 für Vollbild. Es wird nichts installiert.
 
 **Optional:** Die Speedrun-Demo-Detup.exe herunterladen und ausführen
 
