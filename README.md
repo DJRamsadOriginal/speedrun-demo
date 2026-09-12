@@ -5,6 +5,7 @@ Rage-Speedrun-Plattformer im Browser. Diese Demo enthält 5 eigene Level, die es
 ## Spielen
 
 **Offline:** `index.html` herunterladen und per Doppelklick im Browser öffnen (Chrome, Edge oder Firefox). F11 für Vollbild. Es wird nichts installiert.
+
 **Optional:** Die Speedrun-Demo-Detup.exe herunterladen und ausführen
 
 ## Steuerung
